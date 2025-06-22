@@ -7,7 +7,6 @@
  * O usuário pode cadastrar duas cartas, calcular atributos e comparar as cartas em batalha.
  * 
  * Autor: Felipe Boechat
- * Data: 2024
  */
 
 #include <stdio.h>
